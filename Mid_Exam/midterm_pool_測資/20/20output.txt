@@ -1,0 +1,3 @@
+Final string:jtopatheleaaaaantymim
+Last string:jtopathelentymim
+Lps={0,1,2,3,4}

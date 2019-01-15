@@ -1,0 +1,12 @@
+Push 2
+Push 6
+Push 8
+Pop
+Push 83
+Push 33
+Push 17
+Pop
+Pop
+Push 13
+Push 25
+Pop
